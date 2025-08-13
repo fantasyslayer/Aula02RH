@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Aula02RH.Models.Enuns;
 
+// goku sola saitama
+
 namespace Aula02RH.Models
 {
     public class Funcionario
